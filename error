@@ -1,0 +1,19 @@
+Hello everyone. I can not get a certificate, something wrong i don't know how to solve it.Pls help me.
+i'm building a SSL on my site by lets-encrypt on digitalocean,errors like this
+
+IMPORTANT NOTES:
+ - The following errors were reported by the server:
+
+   Domain: xzwk.gq
+   Type:   unauthorized
+   Detail: Invalid response from
+   http://xzwk.gq/.well-known/acme-challenge/ucko1D5_iwD88qJyaM7-olnhv1QUyoXzlpZ5yQGyXxw:
+   "<!DOCTYPE html>\n<!--[if IE 8]> <html lang=\"zh-CN\" class=\"ie8
+   no-js\"> <![endif]-->\n<!--[if IE 9]> <html lang=\"zh-CN\"
+   class=\"ie9 n"
+
+   To fix these errors, please make sure that your domain name was
+   entered correctly and the DNS A/AAAA record(s) for that domain
+   contain(s) the right IP address.
+
+i don't know what's the error,and i try to search the error on google with useless information.Pls help me.Big thanks.
